@@ -29,6 +29,11 @@ Este é um jogo simples desenvolvido em JavaScript, HTML e CSS, onde o objetivo 
   <li>CSS</li>
 </ul>
 
+<h2> Link do Jogo </h2>
+<p>
+<a href="https://numero-secreto-khaki-phi.vercel.app" target="_blank"><strong>▶️ Clique aqui para jogar!</strong></a>
+</p>
+
 <h2>Francisco Alvarenga</h2>
 <p>
 Desenvolvido durante os cursos da Alura.
